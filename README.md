@@ -5,3 +5,10 @@ Arduino External Ballistics Calculator based on "GNU_Exterior_Ballistics_Library
 
 
 HAS NOT BEEN TESTED YET! I MADE IT COMPILE AND NEED TO FIND TIME TO RUN TESTS.
+
+Further ideas:
+- Adapting barometric sensor [external component]
+- Adapting temperature sensor [external component]
+- Adapting wind speed and direction measurement [external component]
+- Adapting gyroscope for elevation measurement (also for leveling the gun from horizontal perspective - keep the crosshair as upright as possible) [attached to rifle's weaver rail]
+- Adapting compass for wind direction adjustment calculation [attached to rifles weaver rail]
