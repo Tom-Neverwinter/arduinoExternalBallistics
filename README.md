@@ -14,3 +14,4 @@ Further ideas:
 - Adapting compass for wind direction adjustment calculation [attached to rifle's weaver rail]
 - Adapting laser rangefinder interface for target's range
 - Adapting wired/wireless interface for ammunition loads data import
+- Adapting diplay unit based on epaper (e.g. http://www.embeddedartists.com/products/displays/lcd_27_epaper.php) to ensure low power consuption
